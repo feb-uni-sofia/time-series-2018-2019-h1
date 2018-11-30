@@ -8,5 +8,5 @@
 - Only submit relevant code and comments. Superfluous code/comments will lead to score reduction.
 - Make sure that you submit _readable_ code. Follow the [tidyverse style guide](http://style.tidyverse.org/syntax.html). Hard to read code will lead to a score reduction. You can ignore (2.1 Object names) of the style guide.
 - Before submitting, select all text in the file (in R Studio), open the Code menu and select Reformat Code.
-- Do not submit code that executes install.packages. If you need to install packages, put a comment at the start of the line with install.packages before submitting.
+<!-- - Do not submit code that executes install.packages. If you need to install packages, put a comment at the start of the line with install.packages before submitting. -->
 - Unless explicitly required, remove lines that print objects before submitting.

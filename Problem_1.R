@@ -1,6 +1,8 @@
 ## Load libraries
 ## If the xts library is not installed on your computer run
-## install.packages('xts')
+
+## Leave this line uncommented.
+install.packages('xts')
 ## to install it.
 
 library(xts)
