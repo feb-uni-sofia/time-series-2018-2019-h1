@@ -1,7 +1,5 @@
 ## Load libraries
-## If the xts library is not installed on your computer run
-
-## Leave this line uncommented.
+## Leave the following line uncommented when submitting, otherwise your build will fail!
 install.packages('xts')
 ## to install it.
 
